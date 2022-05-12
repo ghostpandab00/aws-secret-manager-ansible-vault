@@ -1,5 +1,5 @@
 # aws-secret-manager-ansible-vault
-## Desciption
+## Description
 In this article, we'll go over how to encrypt an ansible yaml file that contains sensitive data like passwords using "AWS Secrets Manager" and "Ansible vault"
 
 ## Pre-Requestes
