@@ -16,7 +16,7 @@ New Vault password:
 Confirm New Vault password:
 Encryption successful
 ```
-I've encrypted the file using a password called 'test@123' and if we want to run the file the file needs to decrypt and we can use the below command 
+I've encrypted the file using a password called 'vault@123' and if we want to run the file the file needs to decrypt and we can use the below command 
 
 ```sh
 # ansible-playbook --ask-vault-pass main.yml
